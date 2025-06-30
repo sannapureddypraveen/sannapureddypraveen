@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Praveen Kumar Reddy
 
-<!--
-**sannapureddypraveen/sannapureddypraveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about **Data Analytics** | 📊 Excel | 📌 Power BI | 🐍 Python | 🧠 SQL  
+🚀 Currently learning from [Codebasics Bootcamp](https://www.codebasics.io/)  
+🔍 Exploring real-world projects in business analysis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔸 [Sales Dashboard - Excel](https://github.com/sannapureddypraveen/Sales-Analytics)
+---
+
+## 🛠 Tools & Skills
+- Excel (Pivot Tables, VLOOKUP, Dashboards) 
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/praveen-sannapureddy/)
