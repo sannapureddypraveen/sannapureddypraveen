@@ -8,10 +8,12 @@
 
 ## 📂 Projects
 - 🔸 [Sales Dashboard - Excel](https://github.com/sannapureddypraveen/Sales-Analytics)
----
+-  Cleaned and analyzed raw sales data
+- Built interactive dashboard using Excel 
+- Identified top-performing regions, categories, and products
 
 ## 🛠 Tools & Skills
-- Excel (Pivot Tables, VLOOKUP, Dashboards) 
+- Excel (Pivot Tables, VLOOKUP, Dashboards,PowerQuery) 
 
 ---
 
