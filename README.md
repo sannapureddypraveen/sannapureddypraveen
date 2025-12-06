@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Praveen Kumar Reddy
 
 🎯 Passionate about **Data Analytics** | 📊 Excel | 📌 Power BI | 🐍 Python | 🧠 SQL  
-🚀 Currently learning from [Codebasics Bootcamp](https://www.codebasics.io/)  
 🔍 Exploring real-world projects in business analysis  
 
 ---
